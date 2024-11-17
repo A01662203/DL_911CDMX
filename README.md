@@ -40,3 +40,7 @@ The categorical input is the incident category, mapped to integer indices and re
 - **Simplify the Architecture**: Reducing the number of dense layers or decreasing the size of some convolutional and LSTM layers could help reduce model capacity and improve generalization.
 - **Additional Regularization**: Exploring other techniques such as `L1` regularization or applying greater `L2` penalties to the dense layers might help.
 - **Increase Dataset Size**: If possible, increasing the dataset with additional data or using augmentation techniques could help improve the model's performance.
+
+
+Enlace con los archivos:
+https://drive.google.com/drive/folders/1LJfNajfbItxn2gAf5bxng_1ngm_01EcJ?usp=sharing
